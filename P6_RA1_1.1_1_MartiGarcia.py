@@ -1,0 +1,3 @@
+nom= "Marti"
+
+print (nom)
