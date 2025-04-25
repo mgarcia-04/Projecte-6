@@ -1,0 +1,2 @@
+nom = input("Com et dius? ") #mostra un missatge en pantalla a l'espera de una respota per guardar a la variable "nom".
+print("Hola", nom) #mostra el missatge "Hola" seguit de la variable guardada anteriorment.
